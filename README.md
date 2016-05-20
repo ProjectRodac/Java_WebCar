@@ -4,4 +4,4 @@ JDeveloper
 praćenje troškova servisa
 dodavanje vozila
 
-![alt tag](https://raw.githubusercontent.com/ProjectRodac/master/img.jpg)
+![alt tag](https://raw.githubusercontent.com/ProjectRodac/master/meni.jpg)
